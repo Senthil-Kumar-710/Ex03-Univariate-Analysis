@@ -30,7 +30,7 @@ Developed by: Senthil Kumar S
 Reg No: 212221230091
 ```
 
-```python
+```
 import pandas as pd
 import numpy as np
 import seaborn as sns
